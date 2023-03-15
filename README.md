@@ -1,4 +1,4 @@
-# Personal-Web-Scraping-and-Other-Projects
+# Other-Personal-Projects
 
 ## Here's a list of web scraping and other types of projects that I have done
 
@@ -7,5 +7,6 @@
 3) Basic Result Check website using Flask: [Link to Repository](https://github.com/yashdoshi247/Result-Checker-web-app)
 4) Simple Flask WebApp to predict whether a person survived the Titanic ship wreck: [Link to Repository](https://github.com/yashdoshi247/Titanic-Survival-Prediction)
 5) Scraping Indeed Job Listings (WIP): [Link to Repository](https://github.com/yashdoshi247/Indeed-Jobs)
+6) Flight Booking WebApp using Django and Django models: [Link to Repository](https://github.com/yashdoshi247/Airlines-Booking-WebApp)
 
 *Note: (WIP) represents projects that are currently undergoing (aka Work In Progress)*
